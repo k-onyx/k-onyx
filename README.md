@@ -32,7 +32,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,react,reactnative,js,ts,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,js,ts,mysql,git,github,vscode" />
 </p>
 
 ---
